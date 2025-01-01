@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## STEP.3　RUN
 ```python
-python Entry.py -h
+python Entry.py
 ```
 #If you encounter the following problems :
 > ModuleNotFoundError: No module named 'python'.<br/>
@@ -31,9 +31,6 @@ python Entry.py -h
     - C:\Users\ `xxx` \AppData\Local\Programs\Python\ `Python版本` \Scripts
 
 ## STEP.4　EXAMPLE
-```python
-python Entry.py
-```
   - ![family_mart.csv](/sample/00.PNG)
 
 ## 抓取資訊來源
